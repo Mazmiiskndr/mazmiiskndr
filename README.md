@@ -64,6 +64,9 @@ field of PHP development. </p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
         alt="postgresql" width="40" height="40" />
 </a>
+
+<a href="https://en.wikipedia.org/wiki/GitHub" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub-icon" height="45" /></a>
+<a href="https://en.wikipedia.org/wiki/Git" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git-icon" height="38" /></a>
 </p>
 
 <h3 align="left"><img align="center" src="https://user-images.githubusercontent.com/76459155/201819920-51947fdf-2f1f-4a77-81f4-f0684a16f8ea.gif" height="20" alt="ProgrammingLanguage-gif"></a>&#160; IDEs : </h3>
