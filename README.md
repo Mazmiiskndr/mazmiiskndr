@@ -96,7 +96,7 @@ field of PHP development. </p>
 
 <h3 align="left">Work Experience : </h3>
 <ul>
-    <li>Staff Programmer, PT. Varnion Technology Semesta | Nov 2022 - <i>present</i> </li>
+    <li>Staff Programmer, PT. Varnion Technology Semesta | Jan 2023 - <i>present</i> </li>
     <li>PHP Programmer, PT. FTF Globalindo | Nov-Jan 2023</li>
     <li>PHP Developer, Nusantara Beta Studio | Oct-Nov 2022</li>
     <li>Website Developer, Devifo Studio | 2020-2021</li>
@@ -142,6 +142,3 @@ field of PHP development. </p>
 
 <a href="https://github.com/Mazmiiskndr/"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mazmiiskndr&show_icons=true&locale=en&layout=compact&theme=radical" width="500" alt="Moch Azmi Iskandar"></a>
 </div>
-
-
-
