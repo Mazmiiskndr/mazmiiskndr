@@ -11,6 +11,7 @@
 - 💬 Ask me about **Laravel, Livewire, Laravel Breeze**
 
 - 📫 How to reach me **azmiiskandar0@gmail.com**
+<a href="mailto:azmiiskandar0@gmail.com" target="_blank" rel="noreferrer"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="#fff" width="24" height="24"><path d="M0 0h24v24H0z" fill="none"/><path d="M21 3H3a2 2 0 00-2 2v14a2 2 0 002 2h18a2 2 0 002-2V5a2 2 0 00-2-2zm-1.83 2L12 11.18 4.83 5h14.34zM3 19v-8.18l7.07 5.31a1 1 0 001.27 0L21 10.82V19a2 2 0 01-2 2H5a2 2 0 01-2-2z"/></svg></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
