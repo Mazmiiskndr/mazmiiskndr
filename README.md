@@ -68,15 +68,15 @@ field of PHP development. </p>
 ## <a href="https://media.giphy.com/media/MF3pE1wwVczhKkaSlg/giphy.gif"><img align="center" src="https://media.giphy.com/media/MF3pE1wwVczhKkaSlg/giphy.gif" height="40" alt="DataChart-gif"></a>&#160; My GitHub Stats:
 
 
-<a href="https://github.com/Mazmiiskndr/"><img src="https://github-readme-streak-stats.herokuapp.com?user=mazmiiskndr&theme=radical" width="800" alt="Moch Azmi Iskandar"></a>
+<a href="https://github.com/Mazmiiskndr/"><img src="https://github-readme-streak-stats.herokuapp.com?user=mazmiiskndr&theme=radical" width="500" alt="Moch Azmi Iskandar"></a>
 
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=d83a7c&height=3&section=header&%20render">
 
-<a href="https://github.com/Mazmiiskndr/"><img src="https://github-readme-stats.vercel.app/api?username=mazmiiskndr&show_icons=true&locale=en&theme=radical" width="800" alt="Moch Azmi Iskandar"></a>
+<a href="https://github.com/Mazmiiskndr/"><img src="https://github-readme-stats.vercel.app/api?username=mazmiiskndr&show_icons=true&locale=en&theme=radical" width="500" alt="Moch Azmi Iskandar"></a>
 
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=d83a7c&height=3&section=header&%20render">
 
-<a href="https://github.com/Mazmiiskndr/"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mazmiiskndr&show_icons=true&locale=en&layout=compact&theme=radical" width="800" alt="Moch Azmi Iskandar"></a>
+<a href="https://github.com/Mazmiiskndr/"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mazmiiskndr&show_icons=true&locale=en&layout=compact&theme=radical" width="500" alt="Moch Azmi Iskandar"></a>
 </div>
 
 
