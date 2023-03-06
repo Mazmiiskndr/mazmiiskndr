@@ -63,7 +63,7 @@ field of PHP development. </p>
 <p align="left">My Instagram: <a href="https://instagram.com/m.azmiiskndr" target="blank">@m.azmiiskndr. <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m.azmiiskndr" height="30" width="40" /></a></p>
 
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=mazmiiskndr&theme=radical" alt="mazmiiskndr" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=mazmiiskndr&theme=radical" alt="mazmiiskndr" style="margin-bottom:10px;"/></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mazmiiskndr&show_icons=true&locale=en&theme=radical" alt="mazmiiskndr" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mazmiiskndr&show_icons=true&locale=en&layout=compact&theme=radical" alt="mazmiiskndr" /></p>
 
