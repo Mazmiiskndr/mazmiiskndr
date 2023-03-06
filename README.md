@@ -77,7 +77,13 @@ field of PHP development. </p>
     <img style="margin: 10px"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode-icon"
         height="38" />
-    </a>&nbsp;&nbsp;
+</a>&nbsp;&nbsp;
+
+<a href="https://www.sublimetext.com/" target="_blank">
+    <img style="margin: 10px"
+        src="https://www.svgrepo.com/show/349520/sublimetext.svg" alt="VSCode-icon"
+        height="38" />
+</a>&nbsp;&nbsp;
 
 </p>
 
