@@ -65,7 +65,7 @@ field of PHP development. </p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=mazmiiskndr&theme=radical" alt="mazmiiskndr" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mazmiiskndr&show_icons=true&locale=en&theme=radical" alt="mazmiiskndr" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mazmiiskndr&show_icons=true&locale=en&layout=compact" alt="mazmiiskndr" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mazmiiskndr&show_icons=true&locale=en&layout=compact&theme=radical" alt="mazmiiskndr" /></p>
 
 
 
