@@ -1,5 +1,5 @@
 
-<img align="center" alt="GIF" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="1000" />
+<img align="center" alt="GIF" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="800" height="400" />
 
 <h1 align="center">Hi 👋, I'm Moch Azmi Iskandar</h1>
 <h3 align="center">Website Developer</h3>
