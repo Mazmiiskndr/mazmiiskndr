@@ -4,7 +4,7 @@
 
 <div align="center">
  
-<a href="#">![mazmiiskndr](https://capsule-render.vercel.app/api?type=waving&height=175&color=fa3e3e&text="Hi👋,%20I'm%20Moch%20Azmi%20Iskandar!"&desc=And%20i'm%20aiming%20to%20be%20a%20Website%20Developer!&fontColor=e4e4e4&fontSize=40&fontAlign=50&fontAlignY=25&descAlign=50&descAlignY=43)</a>
+<a href="#">![mazmiiskndr](https://capsule-render.vercel.app/api?type=waving&height=175&color=d83a7c&text="Hi👋,%20I'm%20Moch%20Azmi%20Iskandar!"&desc=And%20i'm%20aiming%20to%20be%20a%20Website%20Developer!&fontColor=e4e4e4&fontSize=40&fontAlign=50&fontAlignY=25&descAlign=50&descAlignY=43)</a>
 </div>
 
 <h3 align="center">Website Developer</h3>
