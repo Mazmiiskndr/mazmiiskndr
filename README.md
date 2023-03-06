@@ -52,8 +52,6 @@ field of PHP development. </p>
 
 - 💡 I'm interested in exploring new technologies and learning new **Programming Languages.**
 
-- 💡 I'm interested in exploring new technologies and learning new **Programming Languages.**
-
 - 🤝 I'm open to collaborate on web development projects and contribute to open source projects.
 
 - 📫 You can reach me at my email: <a href="mailto:azmiiskandar0@gmail.com">azmiiskandar0@gmail.com</a> 
