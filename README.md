@@ -1,5 +1,5 @@
 
-<img align="center" alt="GIF" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="1000" height="600" />
+<img align="center" alt="GIF" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="1000" height="500" />
 
 <h1 align="center">Hi 👋, I'm Moch Azmi Iskandar</h1>
 <h3 align="center">Website Developer</h3>
@@ -64,7 +64,9 @@ field of PHP development. </p>
 
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mazmiiskndr&" alt="mazmiiskndr" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mazmiiskndr&show_icons=true&locale=en" alt="mazmiiskndr" /></p>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mazmiiskndr&show_icons=true&locale=en&layout=compact" alt="mazmiiskndr" /></p>
 
 
