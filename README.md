@@ -58,15 +58,12 @@ field of PHP development. </p>
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">My Instagram: @m.azmiiskndr.</p>
-<p align="left"> 
-<a href="https://instagram.com/m.azmiiskndr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m.azmiiskndr" height="30" width="40" /></a>
-</p>
+<p align="left">My Instagram: <a href="https://instagram.com/m.azmiiskndr" target="blank">@m.azmiiskndr. : <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m.azmiiskndr" height="30" width="40" /></a></p>
 
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mazmiiskndr&" alt="mazmiiskndr" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mazmiiskndr&show_icons=true&locale=en" alt="mazmiiskndr" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mazmiiskndr&show_icons=true&locale=en&layout=compact" alt="mazmiiskndr" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mazmiiskndr&show_icons=true&locale=en&layout=compact" alt="mazmiiskndr" /></p>
 
 
 
