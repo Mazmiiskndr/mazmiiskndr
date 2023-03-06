@@ -63,14 +63,21 @@ field of PHP development. </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">My Instagram: <a href="https://instagram.com/m.azmiiskndr" target="blank">@m.azmiiskndr. <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m.azmiiskndr" height="30" width="40" /></a></p>
 
+<div align="center">
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=mazmiiskndr&theme=radical" alt="mazmiiskndr"/></p>
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mazmiiskndr&show_icons=true&locale=en&theme=radical" alt="mazmiiskndr" /></p>
+## <a href="https://media.giphy.com/media/MF3pE1wwVczhKkaSlg/giphy.gif"><img align="center" src="https://media.giphy.com/media/MF3pE1wwVczhKkaSlg/giphy.gif" height="40" alt="DataChart-gif"></a>&#160; My GitHub Stats:
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mazmiiskndr&show_icons=true&locale=en&layout=compact&theme=radical" alt="mazmiiskndr" /></p>
+<a href="https://github.com/Mazmiiskndr/"><img src="https://github-readme-streak-stats.herokuapp.com?user=mazmiiskndr&theme=radical" width="800" alt="Moch Azmi Iskandar"></a>
+
+<img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=d83a7c&height=3&section=header&%20render">
+
+<a href="https://github.com/Mazmiiskndr/"><img src="https://github-readme-stats.vercel.app/api?username=mazmiiskndr&show_icons=true&locale=en&theme=radical" width="800" alt="Moch Azmi Iskandar"></a>
+
+<img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=d83a7c&height=3&section=header&%20render">
+
+<a href="https://github.com/Mazmiiskndr/"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mazmiiskndr&show_icons=true&locale=en&layout=compact&theme=radical" width="800" alt="Moch Azmi Iskandar"></a>
+</div>
 
 
 
