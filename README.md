@@ -6,8 +6,6 @@
  
 <a href="#">![mazmiiskndr](https://capsule-render.vercel.app/api?type=waving&height=175&color=d83a7c&text="Hi👋,%20I'm%20Moch%20Azmi%20Iskandar!"&desc=And%20i'm%20aiming%20to%20be%20a%20Website%20Developer!&fontColor=e4e4e4&fontSize=40&fontAlign=50&fontAlignY=25&descAlign=50&descAlignY=43)</a>
 </div>
-
-<h3 align="center">Website Developer</h3>
 <img align="right" alt="GIF" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif" width="400" />
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mazmiiskndr&label=Profile%20views&color=0e75b6&style=flat" alt="mazmiiskndr" /> </p> -->
 
