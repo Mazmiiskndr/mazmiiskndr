@@ -1,5 +1,5 @@
 
-<img align="center" alt="GIF" src="https://im3.ezgif.com/tmp/ezgif-3-820acc4630.gif" width="1000" height="500" />
+<!-- <img align="center" alt="GIF" src="https://im3.ezgif.com/tmp/ezgif-3-820acc4630.gif" width="1000" height="500" /> -->
 
 
 <div align="center">
