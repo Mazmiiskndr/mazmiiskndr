@@ -1,4 +1,4 @@
-[![Moch Azmi Iskandar]([https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif))](https://mazmiiskndr.github.io/)
+[![Moch Azmi Iskandar](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://mazmiiskndr.github.io/)
 <h1 align="center">Hi 👋, I'm Moch Azmi Iskandar</h1>
 <h3 align="center">A passionate Web Developer from Indonesia</h3>
 <img align="right" alt="GIF" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif" width="400" />
