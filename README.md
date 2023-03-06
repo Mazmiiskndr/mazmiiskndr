@@ -1,4 +1,6 @@
-[![Moch Azmi Iskandar](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://mazmiiskndr.github.io/)
+
+<img align="center" alt="GIF" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="1000" />
+
 <h1 align="center">Hi 👋, I'm Moch Azmi Iskandar</h1>
 <h3 align="center">Website Developer</h3>
 <img align="right" alt="GIF" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif" width="400" />
