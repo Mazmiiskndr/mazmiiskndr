@@ -96,17 +96,18 @@ field of PHP development. </p>
 
 <h3 align="left">Work Experience : </h3>
 <ul>
-    <li>Staff Programmer, PT. Varnion Technology Semesta | Jan 2023 - <i>present</i> </li>
-    <li>PHP Programmer, PT. FTF Globalindo | Nov-Jan 2023</li>
-    <li>PHP Developer, Nusantara Beta Studio | Oct-Nov 2022</li>
-    <li>Website Developer, Devifo Studio | 2020-2021</li>
-    <li>Photographer and Editor, RM Photo Studio | 2018-2019</li>
+    <li>Staff Programmer, PT. Varnion Technology Semesta | Feb 2023 - <i>present</i> </li>
+    <li>PHP Programmer, PT. FTF Globalindo | Nov - Feb 2023</li>
+    <li>PHP Developer, Nusantara Beta Studio | Oct - Nov 2022</li>
+    <li>Website Developer, Devifo Studio | 2020 - 2021</li>
+    <li>Photographer and Editor, RM Photo Studio | 2018 - 2019</li>
 </ul>
 
 <h3 align="left">Certificate Of Competences : </h3>
 <ul>
     <li>Software Developer and Programmer </li>
-    <li>PHP Developer (Mahasiswa Intern)</li>
+    <li>Basic Programming JavaScript </li>
+    <li>Cloud Practitioner Essensials </li>
 </ul>
 
 <h3 align="left">Professional Credentials : </h3>
