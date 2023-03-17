@@ -22,7 +22,43 @@ developer and programmer in 2022. In addition, I
 have 1 year of professional experience in the
 field of PHP development. </p>
 
+<h3 align="left">Education : </h3>
+<p align="left">Bina Sarana Informatika University, Information System (IS) major, 2019-2022, GPA : 3,98 </p>
 
+
+<h3 align="left">Work Experience : </h3>
+<ul>
+    <li>Staff Programmer, PT. Varnion Technology Semesta | Feb 2023 - <i>present</i> </li>
+    <li>PHP Programmer, PT. FTF Globalindo | Nov - Feb 2023</li>
+    <li>PHP Developer, Nusantara Beta Studio | Oct - Nov 2022</li>
+    <li>Website Developer, Devifo Studio | 2020 - 2021</li>
+    <li>Photographer and Editor, RM Photo Studio | 2018 - 2019</li>
+</ul>
+
+<h3 align="left">Certificate Of Competences : </h3>
+<ul>
+    <li>Software Developer and Programmer </li>
+    <li>Basic Programming JavaScript </li>
+    <li>Cloud Practitioner Essensials </li>
+</ul>
+
+<h3 align="left">Professional Credentials : </h3>
+
+- 🌟 I have expertise in developing websites using **HTML, CSS, PHP, CodeIgniter 3, Laravel, and MySQL.**
+
+- 🎓 I graduated from Bina **Sarana Informatika University majoring in Information System (IS) in 2022.**
+
+- 🔭 I'm currently working on developing web applications using **Laravel and Livewire.**
+
+- 💡 I'm interested in exploring new technologies and learning new **Programming Languages.**
+
+- 🤝 I'm open to collaborate on web development projects and contribute to open source projects.
+
+- 📫 You can reach me at my email: <a href="mailto:azmiiskandar0@gmail.com">azmiiskandar0@gmail.com</a> 
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">My Instagram: <a href="https://instagram.com/m.azmiiskndr" target="blank">@m.azmiiskndr. <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m.azmiiskndr" height="30" width="40" /></a></p>
 <h3 align="left">Expertise : </h3>
 <p align="left">
 
@@ -89,44 +125,6 @@ field of PHP development. </p>
 </a>&nbsp;&nbsp;
 
 </p>
-
-<h3 align="left">Education : </h3>
-<p align="left">Bina Sarana Informatika University, Information System (IS) major, 2019-2022, GPA : 3,98 </p>
-
-
-<h3 align="left">Work Experience : </h3>
-<ul>
-    <li>Staff Programmer, PT. Varnion Technology Semesta | Feb 2023 - <i>present</i> </li>
-    <li>PHP Programmer, PT. FTF Globalindo | Nov - Feb 2023</li>
-    <li>PHP Developer, Nusantara Beta Studio | Oct - Nov 2022</li>
-    <li>Website Developer, Devifo Studio | 2020 - 2021</li>
-    <li>Photographer and Editor, RM Photo Studio | 2018 - 2019</li>
-</ul>
-
-<h3 align="left">Certificate Of Competences : </h3>
-<ul>
-    <li>Software Developer and Programmer </li>
-    <li>Basic Programming JavaScript </li>
-    <li>Cloud Practitioner Essensials </li>
-</ul>
-
-<h3 align="left">Professional Credentials : </h3>
-
-- 🌟 I have expertise in developing websites using **HTML, CSS, PHP, CodeIgniter 3, Laravel, and MySQL.**
-
-- 🎓 I graduated from Bina **Sarana Informatika University majoring in Information System (IS) in 2022.**
-
-- 🔭 I'm currently working on developing web applications using **Laravel and Livewire.**
-
-- 💡 I'm interested in exploring new technologies and learning new **Programming Languages.**
-
-- 🤝 I'm open to collaborate on web development projects and contribute to open source projects.
-
-- 📫 You can reach me at my email: <a href="mailto:azmiiskandar0@gmail.com">azmiiskandar0@gmail.com</a> 
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">My Instagram: <a href="https://instagram.com/m.azmiiskndr" target="blank">@m.azmiiskndr. <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m.azmiiskndr" height="30" width="40" /></a></p>
 
 <div align="center">
 
