@@ -16,8 +16,8 @@ majoring in Information System (IS) in 2022 after
 receiving a scholarship as the finalist of
 Students Competion of Inovation and Business. I
 have expertise in making websites, programing
-language (e.g. HTML, CSS, PHP, Codeigniter 3,
-Laravel, and MySQL). I am certified as a software
+language (e.g. PHP, Codeigniter,
+Laravel, JavaScript, ReactJS, NodeJS, ExpressJS and MySQL). I am certified as a software
 developer and programmer in 2022. In addition, I
 have 1 year of professional experience in the
 field of PHP development. </p>
