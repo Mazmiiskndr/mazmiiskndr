@@ -6,7 +6,7 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mazmiiskndr&label=Profile%20views&color=0e75b6&style=flat" alt="mazmiiskndr" /> </p> -->
 
 <h3 align="left">About Me : </h3>
-<p align="left">My name is Azmi. I am 21 years old. I was
+<p align="left">My name is Azmi. I am 22 years old. I was
 graduated from Bina Sarana Informatika University
 majoring in Information System (IS) in 2022 after
 receiving a scholarship as the finalist of
