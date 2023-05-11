@@ -6,17 +6,13 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mazmiiskndr&label=Profile%20views&color=0e75b6&style=flat" alt="mazmiiskndr" /> </p> -->
 
 <h3 align="left">About Me : </h3>
-<p align="left">My name is Azmi. I am 22 years old. I was
-graduated from Bina Sarana Informatika University
-majoring in Information System (IS) in 2022 after
-receiving a scholarship as the finalist of
-Students Competion of Inovation and Business. I
-have expertise in making websites, programing
-language (e.g. PHP, Codeigniter,
-Laravel, JavaScript, ReactJS, NodeJS, ExpressJS and MySQL). I am certified as a software
-developer and programmer in 2022. In addition, I
-have 1 year of professional experience in the
-field of PHP development. </p>
+<p align="left">My name is Moch Azmi Iskandar and I am a 22-year-old graduate of Bina Sarana Informatika
+University. I majored in Information Systems (IS). In 2022, I received a scholarship as a finalist in the
+Students Competition of Innovation and Business. I am proficient in website development and
+programming languages such as (HTML, CSS, JavaScript, ReactJS, InertiaJS, PHP, CodeIgniter, Laravel,
+MySQL), and more. After obtaining my certification as a software developer and programmer in 2022,
+I have amassed 4 years of experience in Full Stack Development. Additionally, I have 1 year of
+professional work experience in the field.</p>
 
 <h3 align="left">Education : </h3>
 <p align="left">Bina Sarana Informatika University, Information System (IS) major, 2019-2022, GPA : 3,98 </p>
