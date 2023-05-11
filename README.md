@@ -36,11 +36,11 @@ professional work experience in the field.</p>
 
 <h3 align="left">Professional Credentials : </h3>
 
-- 🌟 I have expertise in developing websites using **HTML, CSS, PHP, CodeIgniter 3, Laravel, and MySQL.**
+- 🌟 I have expertise in developing websites using **HTML, CSS, JavaScript, ReactJS, InertiaJS, PHP, CodeIgniter, Laravel, MySQL,** and more.
 
-- 🎓 I graduated from Bina **Sarana Informatika University majoring in Information System (IS) in 2022.**
+- 🎓 I graduated from **Bina Sarana Informatika University majoring in Information System (IS) in 2022.**
 
-- 🔭 I'm currently working on developing web applications using **Laravel and Livewire.**
+- 🔭 I'm currently working on developing web applications using **Laravel, InertiaJS and ReactJS.**
 
 - 💡 I'm interested in exploring new technologies and learning new **Programming Languages.**
 
