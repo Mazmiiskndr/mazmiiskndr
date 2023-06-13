@@ -15,7 +15,7 @@ I have amassed 4 years of experience in Full Stack Development. Additionally, I 
 professional work experience in the field.</p>
 
 <h3 align="left">Education : </h3>
-<p align="left">Bina Sarana Informatika University, Information System (IS) major, 2019-2022, GPA : 3,98 </p>
+<p align="left">Bina Sarana Informatika University, Information System (IS) major, 2019-2022, GPA : 3,92 </p>
 
 
 <h3 align="left">Work Experience : </h3>
