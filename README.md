@@ -65,7 +65,7 @@ professional work experience in the field.</p>
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,postman," />
   </a>
 </p>
-
+<h3 align="left">My Trophies : </h3>
 [![trophy](https://github-profile-trophy.vercel.app/?username=mazmiiskndr&theme=onedark&row=2&column=3)](https://github.com/mazmiiskndr)
 
 <div align="center">
