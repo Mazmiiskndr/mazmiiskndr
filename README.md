@@ -76,7 +76,7 @@ professional work experience in the field.</p>
    <img src="https://github-readme-stats.vercel.app/api?username=mazmiiskndr&theme=radical" />
 </details>
 
-<div align="center">
+<details align="center">
 
 ## <a href="https://media.giphy.com/media/MF3pE1wwVczhKkaSlg/giphy.gif"><img align="center" src="https://media.giphy.com/media/MF3pE1wwVczhKkaSlg/giphy.gif" height="40" alt="DataChart-gif"></a>&#160; My GitHub Stats:
 
@@ -90,4 +90,4 @@ professional work experience in the field.</p>
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=d83a7c&height=3&section=header&%20render">
 
 <a href="https://github.com/Mazmiiskndr/"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mazmiiskndr&show_icons=true&locale=en&layout=compact&theme=radical" width="500" alt="Moch Azmi Iskandar"></a>
-</div>
+</details>
