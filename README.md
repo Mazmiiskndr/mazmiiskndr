@@ -51,10 +51,10 @@ professional work experience in the field.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://www.instagram.com/m.azmiiskndr" target="blank">
+    <a href="https://www.instagram.com/m.azmiiskndr" target="_blank">
         <img src="https://skillicons.dev/icons?i=instagram" />
     </a>
-    <a href="https://www.linkedin.com/in/moch-azmi-iskandar-34703b195" target="blank">
+    <a href="https://www.linkedin.com/in/moch-azmi-iskandar-34703b195" target="_blank">
         <img src="https://skillicons.dev/icons?i=linkedin" />
     </a>
 </p>
