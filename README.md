@@ -69,17 +69,8 @@ professional work experience in the field.</p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mazmiiskndr&theme=radical&row=1&column=6)](https://github.com/mazmiiskndr)
 
-<details>	
-  <summary><b>⚡ Github Stats</b></summary>
-
-  <br />
-   <img src="https://github-readme-stats.vercel.app/api?username=mazmiiskndr&theme=radical" />
-</details>
-
 <details align="center">
-<summary><b>## <a href="https://media.giphy.com/media/MF3pE1wwVczhKkaSlg/giphy.gif"><img align="center" src="https://media.giphy.com/media/MF3pE1wwVczhKkaSlg/giphy.gif" height="40" alt="DataChart-gif"></a>&#160; My GitHub Stats:</b></summary>
-
-
+## <summary><b> <a href="https://media.giphy.com/media/MF3pE1wwVczhKkaSlg/giphy.gif"><img align="center" src="https://media.giphy.com/media/MF3pE1wwVczhKkaSlg/giphy.gif" height="40" alt="DataChart-gif"></a>&#160; My GitHub Stats:</b></summary>
 
 <a href="https://github.com/Mazmiiskndr/"><img src="https://github-readme-streak-stats.herokuapp.com?user=mazmiiskndr&theme=radical" width="500" alt="Moch Azmi Iskandar"></a>
 
