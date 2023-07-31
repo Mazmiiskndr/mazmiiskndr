@@ -50,7 +50,13 @@ professional work experience in the field.</p>
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">My Instagram: <a href="https://instagram.com/m.azmiiskndr" target="blank">@m.azmiiskndr. <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m.azmiiskndr" height="30" width="40" /></a></p>
+<p align="left">
+    <a href="https://instagram.com/m.azmiiskndr" target="blank">@m.azmiiskndr. <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m.azmiiskndr" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/moch-azmi-iskandar-34703b195">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+
+</p>
 <h3 align="left">Expertise : </h3>
 <p align="left">
   <a href="https://skillicons.dev">
