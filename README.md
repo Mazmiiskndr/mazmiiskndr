@@ -69,6 +69,14 @@ professional work experience in the field.</p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mazmiiskndr&theme=radical&row=1&column=6)](https://github.com/mazmiiskndr)
 
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
+
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=mazmiiskndr&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazmiiskndr&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical"/>
+</details>
+
 <div align="center">
 
 ## <a href="https://media.giphy.com/media/MF3pE1wwVczhKkaSlg/giphy.gif"><img align="center" src="https://media.giphy.com/media/MF3pE1wwVczhKkaSlg/giphy.gif" height="40" alt="DataChart-gif"></a>&#160; My GitHub Stats:
