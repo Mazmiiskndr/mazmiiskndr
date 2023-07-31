@@ -62,12 +62,9 @@ professional work experience in the field.</p>
 <h3 align="left">Expertise : </h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,jquery,react,vuejs,nodejs,expressjs" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,jquery,react,vuejs,nodejs,expressjs,php,laravel,docker,git,github,mysql,mongodb,postgresql,figma,xd,linux&perline=8" />
   </a>
     
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,docker,git,github,mysql,mongodb,postgresql" />
-  </a>
   <h3 align="left"><img align="center" src="https://user-images.githubusercontent.com/76459155/201819920-51947fdf-2f1f-4a77-81f4-f0684a16f8ea.gif" height="20" alt="ProgrammingLanguage-gif"></a>&#160; IDEs : </h3>
    <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,postman," />
