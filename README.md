@@ -20,7 +20,7 @@ professional work experience in the field.</p>
 
 <h3 align="left">Work Experience : </h3>
 <ul>
-    <li>Staff Programmer, PT. Varnion Technology Semesta | Feb 2023 - <i>present</i> </li>
+    <li>Staff Programmer, PT. Varnion Technology Semesta | Feb 2023 - Sep </li>
     <li>PHP Programmer, PT. FTF Globalindo | Nov - Feb 2023</li>
     <li>PHP Developer, Nusantara Beta Studio | Oct - Nov 2022</li>
     <li>Website Developer, Devifo Studio | 2020 - 2021</li>
@@ -62,7 +62,7 @@ professional work experience in the field.</p>
 <h3 align="left">Expertise : </h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,jquery,react,vuejs,nodejs,expressjs,php,laravel,docker,git,github,mysql,mongodb,postgresql,figma,xd,linux&perline=8" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,jquery,tailwind,react,vuejs,nodejs,expressjs,php,laravel,docker,git,mysql,mongodb,figma,ps,linux&perline=8" />
   </a>
     
   <h3 align="left"><img align="center" src="https://user-images.githubusercontent.com/76459155/201819920-51947fdf-2f1f-4a77-81f4-f0684a16f8ea.gif" height="20" alt="ProgrammingLanguage-gif"></a>&#160; IDEs : </h3>
