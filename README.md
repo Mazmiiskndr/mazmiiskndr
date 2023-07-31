@@ -73,7 +73,7 @@ professional work experience in the field.</p>
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
-  <img src="[https://github-readme-stats.vercel.app/api?username=mazmiiskndr&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical](https://github-readme-streak-stats.herokuapp.com?user=mazmiiskndr&theme=radical)" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mazmiiskndr\&theme=radical" />
 </details>
 
 <div align="center">
