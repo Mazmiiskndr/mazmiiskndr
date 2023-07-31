@@ -66,6 +66,8 @@ professional work experience in the field.</p>
   </a>
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=mazmiiskndr)](https://github.com/ryo-ma/github-profile-trophy)
+
 <div align="center">
 
 ## <a href="https://media.giphy.com/media/MF3pE1wwVczhKkaSlg/giphy.gif"><img align="center" src="https://media.giphy.com/media/MF3pE1wwVczhKkaSlg/giphy.gif" height="40" alt="DataChart-gif"></a>&#160; My GitHub Stats:
