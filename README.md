@@ -20,7 +20,7 @@ professional work experience in the field.</p>
 
 <h3 align="left">Work Experience : </h3>
 <ul>
-    <li>Staff Programmer, PT. Varnion Technology Semesta | Feb 2023 - Sep </li>
+    <li>Staff Programmer, PT. Varnion Technology Semesta | Feb - Sep 2023 </li>
     <li>PHP Programmer, PT. FTF Globalindo | Nov - Feb 2023</li>
     <li>PHP Developer, Nusantara Beta Studio | Oct - Nov 2022</li>
     <li>Website Developer, Devifo Studio | 2020 - 2021</li>
