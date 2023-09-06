@@ -8,7 +8,7 @@
 <p align="left">My name is Moch Azmi Iskandar and I am a 22-year-old graduate of Bina Sarana Informatika
 University. I majored in Information Systems (IS). In 2022, I received a scholarship as a finalist in the
 Students Competition of Innovation and Business. I am proficient in website development and
-programming languages such as (HTML, CSS, JavaScript, ReactJS, InertiaJS, PHP, CodeIgniter, Laravel,
+programming languages such as (HTML, CSS, JavaScript, ReactJS, VueJS, InertiaJS, PHP, CodeIgniter, Laravel,
 MySQL), and more. After obtaining my certification as a software developer and programmer in 2022,
 I have amassed 4 years of experience in Full Stack Development. Additionally, I have 1 year of
 professional work experience in the field.</p>
