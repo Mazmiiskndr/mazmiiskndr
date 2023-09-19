@@ -2,7 +2,7 @@
 
 <a href="#">![mazmiiskndr](https://capsule-render.vercel.app/api?type=waving&height=175&color=000&text=%22Hi%F0%9F%91%8B,%20I%27m%20Moch%20Azmi%20Iskandar!%22&desc=And%20a%20Full%20Stack%20Developer!&fontColor=e4e4e4&fontSize=40&fontAlign=50&fontAlignY=25&descAlign=50&descAlignY=43)</a>
 </div>
-<img align="right" alt="GIF" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif" width="400" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGpuZmhmemZyejVobHBsdzN5NWh4Zm5vZDQ1Ymh0Z2ZoYjRyeTRvbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w1pTlNNnznX00R5dK6/giphy.gif" width="400" />
 
 <h3 align="left">About Me : </h3>
 <p align="left">My name is Moch Azmi Iskandar and I am a 22-year-old graduate of Bina Sarana Informatika
