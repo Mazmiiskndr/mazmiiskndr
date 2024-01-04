@@ -5,13 +5,13 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGpuZmhmemZyejVobHBsdzN5NWh4Zm5vZDQ1Ymh0Z2ZoYjRyeTRvbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w1pTlNNnznX00R5dK6/giphy.gif" width="400" />
 
 <h3 align="left">About Me : </h3>
-<p align="left">My name is Moch Azmi Iskandar and I am a 22-year-old graduate of Bina Sarana Informatika
-University. I majored in Information Systems (IS). In 2022, I received a scholarship as a finalist in the
+<p align="left">My name is Moch Azmi Iskandar and I am a 22-year-old graduate of Bina Sarana Informatika University.
+I majored in Information Systems (IS). In 2022, I received a scholarship as a finalist in the
 Students Competition of Innovation and Business. I am proficient in website development and
-programming languages such as (HTML, CSS, JavaScript, ReactJS, VueJS, InertiaJS, PHP, CodeIgniter, Laravel,
-MySQL), and more. After obtaining my certification as a software developer and programmer in 2022,
-I have amassed 4 years of experience in Full Stack Development. Additionally, I have 1 year of
-professional work experience in the field.</p>
+programming languages such as (HTML, CSS, JavaScript, ReactJS, InertiaJS, PHP, CodeIgniter, Laravel,
+MySQL), and more. After obtaining my certification as a software developer and programmer in 2022, I
+have amassed total 4 years of experience in Full Stack Development. Additionally, I have over 1 year
+of professional work experience in the field and continue to grow and develop my skills.</p>
 
 <h3 align="left">Education : </h3>
 <p align="left">Bina Sarana Informatika University, Information System (IS) major, 2019-2022, GPA : 3,92 </p>
@@ -61,7 +61,7 @@ professional work experience in the field.</p>
 <h3 align="left">Expertise : </h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,jquery,tailwind,react,vuejs,nodejs,expressjs,php,laravel,docker,git,mysql,mongodb,figma,ps,linux&perline=8" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,jquery,tailwind,react,nextjs,vuejs,nodejs,expressjs,ts,php,laravel,docker,git,mysql,mongodb,postgres,prisma,figma,ps,linux&perline=8" />
   </a>
     
   <h3 align="left"><img align="center" src="https://user-images.githubusercontent.com/76459155/201819920-51947fdf-2f1f-4a77-81f4-f0684a16f8ea.gif" height="20" alt="ProgrammingLanguage-gif"></a>&#160; IDEs : </h3>
