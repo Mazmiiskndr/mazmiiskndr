@@ -36,7 +36,7 @@ of professional work experience in the field and continue to grow and develop my
 
 <h3 align="left">Professional Credentials : </h3>
 
-- 🌟 I have expertise in developing websites using **HTML, CSS, JavaScript, ReactJS, InertiaJS, PHP, CodeIgniter, Laravel, MySQL,** and more.
+- 🌟 I have expertise in developing websites using **HTML, CSS, JavaScript, NodeJS, ReactJS, NextJS, InertiaJS, PHP, CodeIgniter, Laravel, MySQL, PostgreSQL, MongoDB ** and more.
 
 - 🎓 I graduated from **Bina Sarana Informatika University majoring in Information System (IS) in 2022.**
 
