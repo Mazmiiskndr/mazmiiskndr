@@ -19,6 +19,7 @@ of professional work experience in the field and continue to grow and develop my
 
 <h3 align="left">Work Experience : </h3>
 <ul>
+    <li>Full Stack Engineer, PT. Bank Rakyat Indonesia | Oct 2024 - Now </li>
     <li>Staff Programmer, PT. Varnion Technology Semesta | Feb - Sep 2023 </li>
     <li>PHP Programmer, PT. FTF Globalindo | Nov - Feb 2023</li>
     <li>PHP Developer, Nusantara Beta Studio | Oct - Nov 2022</li>
