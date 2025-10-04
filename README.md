@@ -5,7 +5,7 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGpuZmhmemZyejVobHBsdzN5NWh4Zm5vZDQ1Ymh0Z2ZoYjRyeTRvbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w1pTlNNnznX00R5dK6/giphy.gif" width="400" />
 
 <h3 align="left">About Me : </h3>
-<p align="left">My name is Moch Azmi Iskandar and I am a 22-year-old graduate of Bina Sarana Informatika University.
+<p align="left">My name is Moch Azmi Iskandar and I am a 23-year-old graduate of Bina Sarana Informatika University.
 I majored in Information Systems (IS). In 2022, I received a scholarship as a finalist in the
 Students Competition of Innovation and Business. I am proficient in website development and
 programming languages such as (HTML, CSS, JavaScript, ReactJS, InertiaJS, PHP, CodeIgniter, Laravel,
